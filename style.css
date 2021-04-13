@@ -15,6 +15,7 @@ h1{
 } 
 img{
     width: 80%;
+    max-width:800px;
     margin: 10px 0px;
     vertical-align: middle;
 }
@@ -36,6 +37,7 @@ img{
 }
  .vide{
     width: 80%; 
+    max-width: 800px;
 } 
 .blo{
     color: white;
